@@ -1,0 +1,13 @@
+flask
+flask-sqlalchemy
+flask-login
+flask-dance
+google-genai
+gunicorn
+psycopg2-binary
+oauthlib
+pyjwt
+sift-stack-py
+sqlalchemy
+werkzeug
+email-validator
